@@ -26,7 +26,7 @@ Please consider citing our paper if you refer to this code in your research.
       title={Big Cooperative Learning}, 
       author={Yulai Cong},
       year={2024},
-      eprint={2312.11926},
+      eprint={24...},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
