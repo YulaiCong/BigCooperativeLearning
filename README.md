@@ -1,6 +1,6 @@
 # Big Cooperative Learning
 
-The official code for the paper "[Big Cooperative Learning](https://arxiv.org/abs/2312.11926)" by Yulai Cong.
+The official code for the paper "[Big Cooperative Learning](https://arxiv.org/abs/24....)" by Yulai Cong.
 
 ## Abstract
 Cooperation plays a pivotal role in the evolution of human intelligence; moreover, it also underlies the recent revolutionary advancement of artificial intelligence (AI) that is driven by foundation models. 
