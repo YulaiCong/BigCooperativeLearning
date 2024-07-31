@@ -2,6 +2,8 @@
 
 The official code for the paper "[Big Cooperative Learning](https://arxiv.org/abs/24....)" by Yulai Cong.
 
+![Figure_video_25GMM_BLexloration](https://github.com/user-attachments/assets/6cab52c7-e0aa-418b-ad33-3c7d86d53d0b)
+
 ## Abstract
 Cooperation plays a pivotal role in the evolution of human intelligence; moreover, it also underlies the recent revolutionary advancement of artificial intelligence (AI) that is driven by foundation models. 
 Specifically, we reveal that the training of foundation models can be interpreted as a form of big cooperative learning (abbr. big learning), where massive learning individuals/tasks cooperate to approach the unique essence of data from diverse perspectives of data prediction, leveraging a universal model. 
